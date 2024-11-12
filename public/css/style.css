@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    height: 600px;
+    background-color: lightskyblue;
+}
+
+.trendcontainer{
+    
+    width: 100%;
+}
+
+.trending{
+    display: flex;
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.trending-game{
+    display: flex;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+button{
+    display: flex;
+    justify-content: flex-end;
+    border-radius: none 20px;
+    background-color: orangered;
+    width: 150px;
+    height: 50px;
+    color: whitesmoke;
+    
+}
+
