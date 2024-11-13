@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    height: 600px;
+    background-color: lightskyblue;
+}
+
+.trendcontainer1{
+    background-color: chartreuse;
+    width: 100%;
+}
+
+.trending{
+    display: flex;
+    color: orangered;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.trending-game{
+    display: flex;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.view-all{
+    display: flex;
+    background-color: orangered;
+    height: 60px;
+    width:120px;
+    border-radius: 50px;
+    align-items: center;
+    color: whitesmoke;
+    justify-content: center;
+}
+
+.trendcontainer2{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    
+}
+
+
