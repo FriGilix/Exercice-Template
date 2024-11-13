@@ -5,7 +5,6 @@
 }
 
 .trendcontainer1{
-    background-color: chartreuse;
     width: 100%;
 }
 
@@ -37,7 +36,6 @@
 .trendcontainer2{
     display: flex;
     justify-content: space-around;
-    background-color: red;
     width: 100%;
     text-align: center;
     
